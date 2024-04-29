@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import './User.css'
+import '../User.css'
 import axios from 'axios';
 const Admin = () => {
     // State để lưu trữ danh sách người dùng
